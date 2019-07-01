@@ -1,0 +1,19 @@
+{
+    "tabs": [
+        {
+            "title": "Example 1",
+            "src": "tabs/example1.html"
+        },
+        {
+            "title": "Example 2",
+            "src": "tabs/example2.html"
+        },
+        {
+            "title": "Example 3",
+            "src": "tabs/example3.html"
+        }
+    ],
+    "config": {
+        "backgroundColor": "#eee"
+    }
+}
