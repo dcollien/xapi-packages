@@ -1,0 +1,38 @@
+.App {
+  margin: 0;
+  padding: 0;
+}
+
+.App .tabs {
+  margin: 0;
+  padding: 0;
+  border-bottom: 1px solid #eee;
+  background-color: #eee;
+  font-size: 1.1rem;
+}
+
+.App .tab {
+  display: inline-block;
+  padding: 8px 12px;
+  margin: 1px;
+  background-color: rgba(255, 255, 255, 0.4);
+}
+
+.App .tab-selected {
+
+}
+
+.App .tab-disabled {
+
+}
+
+.App .tab:hover {
+  cursor: pointer;
+  background-color: rgba(255, 255, 255, 0.9);
+}
+
+.App .tab-content-selected {
+  padding: 6px;
+}
+
+
